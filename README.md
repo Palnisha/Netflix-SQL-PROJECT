@@ -118,4 +118,3 @@ count(*) as total_content
 from new_table
 group by 1;
 
-
